@@ -1,0 +1,82 @@
+Source,Type,Target,Weight
+A bystander,Undirected,Colonel Pickering,1
+A bystander,Undirected,Freddy,1
+A bystander,Undirected,Henry Higgins,1
+A bystander,Undirected,Lisa Doolittle,1
+A bystander,Undirected,Several bystanders,1
+A bystander,Undirected,The bystanders,1
+A bystander,Undirected,The daughter,1
+A bystander,Undirected,The mother,1
+A bystander,Undirected,The sarcastic bystander,1
+Alfred Doolittle,Undirected,Colonel Pickering,2
+Alfred Doolittle,Undirected,Henry Higgins,1
+Alfred Doolittle,Undirected,Lisa Doolittle,2
+Alfred Doolittle,Undirected,Mrs. Higgins,1
+Alfred Doolittle,Undirected,Mrs. Pears,1
+Alfred Doolittle,Undirected,The Japanese Lady,1
+Alfred Doolittle,Undirected,The parlor-maid,1
+Clara,Undirected,Colonel Pickering,1
+Clara,Undirected,Freddy,1
+Clara,Undirected,Henry Higgins,1
+Clara,Undirected,Lisa Doolittle,1
+Clara,Undirected,Mrs. Eynsford Hill,1
+Clara,Undirected,Mrs. Higgins,1
+Clara,Undirected,The parlor-maid,1
+Colonel Pickering,Undirected,Freddy,2
+Colonel Pickering,Undirected,Henry Higgins,4
+Colonel Pickering,Undirected,Lisa Doolittle,5
+Colonel Pickering,Undirected,Mrs. Eynsford Hill,1
+Colonel Pickering,Undirected,Mrs. Higgins,2
+Colonel Pickering,Undirected,Mrs. Pears,1
+Colonel Pickering,Undirected,Several bystanders,1
+Colonel Pickering,Undirected,The Japanese Lady,1
+Colonel Pickering,Undirected,The bystanders,1
+Colonel Pickering,Undirected,The daughter,1
+Colonel Pickering,Undirected,The mother,1
+Colonel Pickering,Undirected,The parlor-maid,2
+Colonel Pickering,Undirected,The sarcastic bystander,1
+Freddy,Undirected,Henry Higgins,2
+Freddy,Undirected,Lisa Doolittle,2
+Freddy,Undirected,Mrs. Eynsford Hill,1
+Freddy,Undirected,Mrs. Higgins,1
+Freddy,Undirected,Several bystanders,1
+Freddy,Undirected,The bystanders,1
+Freddy,Undirected,The daughter,1
+Freddy,Undirected,The mother,1
+Freddy,Undirected,The parlor-maid,1
+Freddy,Undirected,The sarcastic bystander,1
+Henry Higgins,Undirected,Lisa Doolittle,4
+Henry Higgins,Undirected,Mrs. Eynsford Hill,1
+Henry Higgins,Undirected,Mrs. Higgins,1
+Henry Higgins,Undirected,Mrs. Pears,1
+Henry Higgins,Undirected,Several bystanders,1
+Henry Higgins,Undirected,The Japanese Lady,1
+Henry Higgins,Undirected,The bystanders,1
+Henry Higgins,Undirected,The daughter,1
+Henry Higgins,Undirected,The mother,1
+Henry Higgins,Undirected,The parlor-maid,1
+Henry Higgins,Undirected,The sarcastic bystander,1
+Lisa Doolittle,Undirected,Mrs. Eynsford Hill,1
+Lisa Doolittle,Undirected,Mrs. Higgins,2
+Lisa Doolittle,Undirected,Mrs. Pears,1
+Lisa Doolittle,Undirected,Several bystanders,1
+Lisa Doolittle,Undirected,The Japanese Lady,1
+Lisa Doolittle,Undirected,The bystanders,1
+Lisa Doolittle,Undirected,The daughter,1
+Lisa Doolittle,Undirected,The mother,1
+Lisa Doolittle,Undirected,The parlor-maid,2
+Lisa Doolittle,Undirected,The sarcastic bystander,1
+Mrs. Eynsford Hill,Undirected,Mrs. Higgins,1
+Mrs. Eynsford Hill,Undirected,The parlor-maid,1
+Mrs. Higgins,Undirected,The parlor-maid,2
+Mrs. Pears,Undirected,The Japanese Lady,1
+Several bystanders,Undirected,The bystanders,1
+Several bystanders,Undirected,The daughter,1
+Several bystanders,Undirected,The mother,1
+Several bystanders,Undirected,The sarcastic bystander,1
+The bystanders,Undirected,The daughter,1
+The bystanders,Undirected,The mother,1
+The bystanders,Undirected,The sarcastic bystander,1
+The daughter,Undirected,The mother,1
+The daughter,Undirected,The sarcastic bystander,1
+The mother,Undirected,The sarcastic bystander,1
