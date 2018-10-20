@@ -36,9 +36,9 @@
 
 *Средняя длина пути* 1,404
 
-## Задание 4. Корпусая работа
+## Задание 4. Корпусная работа
 
 ## Презентация к прочитанной статье
-**Статья** [First We Feel Then We Fall: James Joyce’s Finnegans Wake as an interactive video application](https://academic.oup.com/dsh/article/32/suppl_2/ii124/4079348)
+**Статья Katarzyna Bazarnik, Jakub Wróblewski** [First We Feel Then We Fall: James Joyce’s Finnegans Wake as an interactive video application](https://academic.oup.com/dsh/article/32/suppl_2/ii124/4079348)
 
 [Презентация](https://github.com/Mhorioghain/Digital-Humanities/blob/master/Finnegans%20Wake.pdf)
