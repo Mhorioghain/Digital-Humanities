@@ -37,6 +37,7 @@
 *Средняя длина пути* 1,404
 
 ## Задание 4. Корпусная работа
+[Анализ лирики С.Я. Надсона](https://github.com/Mhorioghain/Digital-Humanities/blob/master/Corpopa.md)
 
 ## Презентация к прочитанной статье
 **Статья Katarzyna Bazarnik, Jakub Wróblewski** [First We Feel Then We Fall: James Joyce’s Finnegans Wake as an interactive video application](https://academic.oup.com/dsh/article/32/suppl_2/ii124/4079348)
